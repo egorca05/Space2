@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\source\repos\Space\Space\Ciphers.cpp" />
+    <ClCompile Include="Ciphers.cpp" />
     <ClCompile Include="Labyrint.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MaskaMacros.cpp" />
